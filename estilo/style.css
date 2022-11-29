@@ -13,3 +13,8 @@ h1{
 p{
     font-size: 2em;
 }
+
+img{
+    width: 400px;
+    height: 700px;
+}
